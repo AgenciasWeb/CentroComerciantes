@@ -99,3 +99,13 @@ p {
 .btn i {
     font-size: 20px;
 }
+
+.btn-fidelizacion {
+    border-color: #c5a059;
+    color: #ffffff;
+}
+.btn-fidelizacion:hover {
+    background-color: rgba(197, 160, 89, 0.15);
+    border-color: #c5a059;
+    color: #c5a059;
+}
